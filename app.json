@@ -24,7 +24,7 @@
         },
         "V_HEADER": {
             "description": "Set the Header name logo",
-            "required": false,
+            "required": true,
             "value": "✰𝙼𝙰𝙰𝙻𝚄𝚃𝚃𝚈_𝚅3✰"
         },
         "VERIFIED": {
@@ -92,7 +92,7 @@
             "value": "false"
         },
         "BGM_DURATION": {
-            "description": "FUNY BGM DURATION  codded by SAIDALI",
+            "description": "FUNY BGM DURATION  codded by ALLAN",
             "required": false,
             "value": "39999600"
         },
